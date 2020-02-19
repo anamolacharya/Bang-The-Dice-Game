@@ -10,7 +10,6 @@ typedef struct dice {
 
 /**
  * Generate a random dice and return it
- * @author Jonathon Surles
  * @return the newly created dice object
  */
 Dice rollDice();
